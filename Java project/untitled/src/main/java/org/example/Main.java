@@ -1,6 +1,8 @@
 package org.example;
 
- class Main {
+import java.util.Scanner;
+
+class Main {
 
     public static void main(String[] args) {
         //зробив як у відео
@@ -9,3 +11,8 @@ package org.example;
 
     }
 }
+
+
+
+
+
